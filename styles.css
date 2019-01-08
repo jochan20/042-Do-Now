@@ -1,0 +1,48 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 60px;
+    color:pink;
+    text-align: center;
+    margin-top:0;
+    margin-bottom:0;
+}
+h2 {
+    font-family:'Pacifico', cursive;
+    font-size:30px;
+    text-align: center;
+    font-size: 30px;
+}
+.scallop {
+   background: 
+    radial-gradient(circle at 50% 0%, #f2f2f2 25%, #cccccc 26%, #ffffff 40%);
+    min-height:200px;
+    background-size:100px;
+}
+.whatever {
+    background-color:#f2f2f2;
+}
+img {
+     border: double 10px;
+       height: 300px;
+    width: 400px;
+}
+p {
+      font-family:'Pacifico', cursive;
+    font-size:30px;
+    text-align: center;
+}
+body {
+    background-color:papayawhip;
+}
+h3 { 
+     font-family:'Pacifico', cursive;
+    font-size:30px;
+    text-align: center;
+    font-size: 30px;
+}
+h4 {
+     font-family:'Pacifico', cursive;
+    font-size:30px;
+    text-align: center;
+    font-size: 30px;
+}
